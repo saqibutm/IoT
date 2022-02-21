@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Dropbox
+.DS_Store
