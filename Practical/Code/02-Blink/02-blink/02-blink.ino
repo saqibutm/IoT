@@ -1,5 +1,5 @@
-int ledPin = 13;
-int delayTime = 1000;
+int ledPin = 12;
+int delayTime = 2000;
 
 void setup() {
   // put your setup code here, to run once:
